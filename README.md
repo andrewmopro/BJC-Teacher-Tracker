@@ -54,7 +54,7 @@ We have worked on the adding following core features and functionality:
 
 ## Steps to Deploying on Heroku
 
-- ... create a heroku app
+- ...create a heroku app
 - `heroku buildpacks:set heroku/nodejs` # this must be the first buildpack.
 - `heroku buildpacks:set heroku/ruby`
 - `git remote set-url heroku https://git.heroku.com/bjc-teachers.git`

@@ -48,9 +48,9 @@ We have worked on the adding following core features and functionality:
 - For Cucumber tests run `bundle exec cucumber`
 - To make someone an admin use db console access
 
-## Deployed Site:
+## Hand-off Heroku Site:
 
-- https://teachers.bjc.berkeley.edu
+- https://bjc-handoff.herokuapp.com/
 
 ## Steps to Deploying on Heroku
 
